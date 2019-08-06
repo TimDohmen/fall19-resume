@@ -1,0 +1,19 @@
+.text-center{
+  text-align: center;
+}
+
+#summary{
+  color: aqua;
+}
+
+.text-right{
+  text-align:right;
+}
+
+.text-left{
+  text-align:left;
+}
+
+*{
+  outline: 1px solid red;
+}
